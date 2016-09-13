@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Breakit&#39;s hugo Site</title>
+    <link>http://breakit100.github.io/hugo/</link>
+    <description>Recent content on Breakit&#39;s hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>breakit100@gmail.com (breakit)</managingEditor>
+    <webMaster>breakit100@gmail.com (breakit)</webMaster>
+    <lastBuildDate>Tue, 13 Sep 2016 22:57:03 +0900</lastBuildDate>
+    <atom:link href="http://breakit100.github.io/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>first breakit</title>
+      <link>http://breakit100.github.io/hugo/2016/09/13/first-breakit/</link>
+      <pubDate>Tue, 13 Sep 2016 22:57:03 +0900</pubDate>
+      <author>breakit100@gmail.com (breakit)</author>
+      <guid>http://breakit100.github.io/hugo/2016/09/13/first-breakit/</guid>
+      <description>
+
+&lt;h1 id=&#34;hello&#34;&gt;hello&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
